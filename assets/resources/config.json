@@ -1,0 +1,267 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "resources",
+    "deps": [],
+    "uuids": [
+        "023ddf12-fd3c-483f-95f1-9d0f81e9b7fe",
+        "024964b2-49ec-45e5-899f-f979627a6cfc",
+        "08bcbfcb-3257-45b7-9a18-c72ef538c8b9",
+        "0c588065-24c3-430e-b95e-82791b20f0d6",
+        "0d9e2954-fc1a-4f37-ae8f-a193a814a55e",
+        "0ece056c-9780-4344-bb88-3e59ac002d42",
+        "12b8e854-071f-4e33-8da3-f8aaef92e507",
+        "18ca6e86-c395-4b76-8edb-b91a69ff4d7b",
+        "1bd31e3b-0577-4e5c-95ea-f2113373e303",
+        "31eb72e4-daec-4e08-b922-ed7607f84f61",
+        "3296e4ad-a847-4bb2-ba65-46e132d88419",
+        "41d07846-504b-4ba4-916b-40e00cbba726",
+        "479a439c-420e-4fe4-9301-4ee401ab66b1",
+        "4e04804f-8a6a-4ce1-a0f0-d0626b2cd3b1",
+        "5912f246-ec18-4a28-ba00-3ea178250f6a",
+        "5bf885e2-e03f-46f3-ba7c-590a863f17aa",
+        "6985b328-6241-4ab2-b342-07fb5b8a2321",
+        "6acd437c-66eb-4067-b9fb-911b6023b831",
+        "6b18773b-1dbb-4fbd-bb81-7300e93aad94",
+        "73dc2aac-ab7b-4c33-89b7-919c9ee85faa",
+        "7b27a391-edfb-4274-8ceb-f65cee7a0528",
+        "7c2817fc-1f82-4ae2-8468-17b7a7b8b9e6",
+        "84e0703a-7d1f-4b49-b70c-de8e0c2828b3",
+        "85a6d433-4ac5-47a8-b326-8edc250eea76",
+        "862e847c-79c8-4b5c-8917-5e72b2561671",
+        "87cc7ea9-dba6-4301-9419-32a526cbe841",
+        "8a6647d3-acd9-49da-88c5-2ea07a7e109c",
+        "936f319e-f528-4f4d-b54a-9af45a2015f0",
+        "96f7af34-f6ff-420f-a224-faf23b896900",
+        "9e744c54-b5cb-49df-80e5-f62db6aa450d",
+        "a09036ac-10e8-48c4-b873-c72e1283e3d4",
+        "c35e5dba-2e6b-4d4b-abec-acd73fca594e",
+        "d63decb2-cc08-41f6-81c3-3b545086f759",
+        "d705de50-b6f7-4416-b5a4-2ca10a9c24fd",
+        "e34264ed-ec94-4790-9784-c3d731c48258",
+        "f1ea219d-18c6-42c1-b798-d2e6b3ba4f60",
+        "f1f0f8ac-589b-4ff8-9f2f-631598f6c8f7",
+        "f34fe6b4-c1b7-4822-8bdc-7da373a2a644",
+        "f814e5a3-bac1-43d4-a6a9-27e26a8a5969",
+        "fa2f1a13-49dc-409e-a1e6-2c7eab29dba3",
+        "ff66bc44-6bf0-477b-a755-e10204ec41a8"
+    ],
+    "paths": {
+        "12b8e854-071f-4e33-8da3-f8aaef92e507": [
+            "adventure-levels",
+            "cc.JsonAsset",
+            1
+        ],
+        "7c2817fc-1f82-4ae2-8468-17b7a7b8b9e6": [
+            "levels/level-01",
+            "cc.JsonAsset",
+            1
+        ],
+        "3296e4ad-a847-4bb2-ba65-46e132d88419": [
+            "levels/level-02",
+            "cc.JsonAsset",
+            1
+        ],
+        "a09036ac-10e8-48c4-b873-c72e1283e3d4": [
+            "levels/level-03",
+            "cc.JsonAsset",
+            1
+        ],
+        "8a6647d3-acd9-49da-88c5-2ea07a7e109c": [
+            "levels/level-04",
+            "cc.JsonAsset",
+            1
+        ],
+        "023ddf12-fd3c-483f-95f1-9d0f81e9b7fe": [
+            "levels/level-05",
+            "cc.JsonAsset",
+            1
+        ],
+        "024964b2-49ec-45e5-899f-f979627a6cfc": [
+            "levels/level-06",
+            "cc.JsonAsset",
+            1
+        ],
+        "862e847c-79c8-4b5c-8917-5e72b2561671": [
+            "levels/level-07",
+            "cc.JsonAsset",
+            1
+        ],
+        "73dc2aac-ab7b-4c33-89b7-919c9ee85faa": [
+            "levels/level-08",
+            "cc.JsonAsset",
+            1
+        ],
+        "ff66bc44-6bf0-477b-a755-e10204ec41a8": [
+            "levels/level-09",
+            "cc.JsonAsset",
+            1
+        ],
+        "87cc7ea9-dba6-4301-9419-32a526cbe841": [
+            "levels/level-10",
+            "cc.JsonAsset",
+            1
+        ],
+        "e34264ed-ec94-4790-9784-c3d731c48258": [
+            "levels/level-11",
+            "cc.JsonAsset",
+            1
+        ],
+        "4e04804f-8a6a-4ce1-a0f0-d0626b2cd3b1": [
+            "levels/level-12",
+            "cc.JsonAsset",
+            1
+        ],
+        "f814e5a3-bac1-43d4-a6a9-27e26a8a5969": [
+            "levels/level-13",
+            "cc.JsonAsset",
+            1
+        ],
+        "fa2f1a13-49dc-409e-a1e6-2c7eab29dba3": [
+            "levels/level-14",
+            "cc.JsonAsset",
+            1
+        ],
+        "7b27a391-edfb-4274-8ceb-f65cee7a0528": [
+            "levels/level-15",
+            "cc.JsonAsset",
+            1
+        ],
+        "f34fe6b4-c1b7-4822-8bdc-7da373a2a644": [
+            "levels/level-16",
+            "cc.JsonAsset",
+            1
+        ],
+        "f1f0f8ac-589b-4ff8-9f2f-631598f6c8f7": [
+            "levels/level-17",
+            "cc.JsonAsset",
+            1
+        ],
+        "5912f246-ec18-4a28-ba00-3ea178250f6a": [
+            "levels/level-18",
+            "cc.JsonAsset",
+            1
+        ],
+        "d63decb2-cc08-41f6-81c3-3b545086f759": [
+            "levels/level-19",
+            "cc.JsonAsset",
+            1
+        ],
+        "31eb72e4-daec-4e08-b922-ed7607f84f61": [
+            "levels/level-20",
+            "cc.JsonAsset",
+            1
+        ],
+        "5bf885e2-e03f-46f3-ba7c-590a863f17aa": [
+            "levels/level-21",
+            "cc.JsonAsset",
+            1
+        ],
+        "0d9e2954-fc1a-4f37-ae8f-a193a814a55e": [
+            "levels/level-22",
+            "cc.JsonAsset",
+            1
+        ],
+        "6985b328-6241-4ab2-b342-07fb5b8a2321": [
+            "levels/level-23",
+            "cc.JsonAsset",
+            1
+        ],
+        "6b18773b-1dbb-4fbd-bb81-7300e93aad94": [
+            "levels/level-24",
+            "cc.JsonAsset",
+            1
+        ],
+        "41d07846-504b-4ba4-916b-40e00cbba726": [
+            "levels/level-25",
+            "cc.JsonAsset",
+            1
+        ],
+        "08bcbfcb-3257-45b7-9a18-c72ef538c8b9": [
+            "levels/level-26",
+            "cc.JsonAsset",
+            1
+        ],
+        "936f319e-f528-4f4d-b54a-9af45a2015f0": [
+            "levels/level-27",
+            "cc.JsonAsset",
+            1
+        ],
+        "0c588065-24c3-430e-b95e-82791b20f0d6": [
+            "levels/level-28",
+            "cc.JsonAsset",
+            1
+        ],
+        "1bd31e3b-0577-4e5c-95ea-f2113373e303": [
+            "levels/level-29",
+            "cc.JsonAsset",
+            1
+        ],
+        "d705de50-b6f7-4416-b5a4-2ca10a9c24fd": [
+            "levels/level-30",
+            "cc.JsonAsset",
+            1
+        ],
+        "96f7af34-f6ff-420f-a224-faf23b896900": [
+            "levels/level-31",
+            "cc.JsonAsset",
+            1
+        ],
+        "9e744c54-b5cb-49df-80e5-f62db6aa450d": [
+            "levels/level-32",
+            "cc.JsonAsset",
+            1
+        ],
+        "c35e5dba-2e6b-4d4b-abec-acd73fca594e": [
+            "levels/level-33",
+            "cc.JsonAsset",
+            1
+        ],
+        "479a439c-420e-4fe4-9301-4ee401ab66b1": [
+            "levels/level-34",
+            "cc.JsonAsset",
+            1
+        ],
+        "f1ea219d-18c6-42c1-b798-d2e6b3ba4f60": [
+            "levels/level-35",
+            "cc.JsonAsset",
+            1
+        ],
+        "6acd437c-66eb-4067-b9fb-911b6023b831": [
+            "levels/level-36",
+            "cc.JsonAsset",
+            1
+        ],
+        "84e0703a-7d1f-4b49-b70c-de8e0c2828b3": [
+            "levels/level-37",
+            "cc.JsonAsset",
+            1
+        ],
+        "0ece056c-9780-4344-bb88-3e59ac002d42": [
+            "levels/level-38",
+            "cc.JsonAsset",
+            1
+        ],
+        "18ca6e86-c395-4b76-8edb-b91a69ff4d7b": [
+            "levels/level-39",
+            "cc.JsonAsset",
+            1
+        ],
+        "85a6d433-4ac5-47a8-b326-8edc250eea76": [
+            "levels/level-40",
+            "cc.JsonAsset",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
