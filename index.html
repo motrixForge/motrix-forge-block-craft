@@ -18,9 +18,9 @@
     <meta name="screen-orientation" content="portrait" />
 
     <!-- GAME_PLATFORM_BEGIN -->
-
+    <script>window.__GAME_PLATFORM__ = 'web';</script>
     <!-- GAME_PLATFORM_END -->
-    <script src="./014a38ec4a28.js" importance="high"></script>
+    <script src="./game-sdk.js" importance="high"></script>
 
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -54,20 +54,20 @@
 
 <!-- Polyfills bundle. -->
 
-<script src="src/polyfills.bundle.5adbf.js" charset="utf-8"> </script>
+<script src="src/polyfills.bundle.js" charset="utf-8"> </script>
 
 
 <!-- SystemJS support. -->
-<script src="src/system.bundle.543e6.js" charset="utf-8"> </script>
+<script src="src/system.bundle.js" charset="utf-8"> </script>
 
 <!-- Import map -->
-<script src="src/import-map.c8d81.json" type="systemjs-importmap" charset="utf-8"> </script>
+<script src="src/import-map.json" type="systemjs-importmap" charset="utf-8"> </script>
 
 <script>
-    System.import('./index.efd3c.js').catch(function(err) { console.error(err); })
+    System.import('./index.js').catch(function(err) { console.error(err); })
 </script>
 
 
-    <link rel="stylesheet" type="text/css" href="style.f76d1.css" importance="low" />
+    <link rel="stylesheet" type="text/css" href="style.css" importance="low" />
 </body>
 </html>
